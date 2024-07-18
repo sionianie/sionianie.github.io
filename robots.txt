@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sionianie.github.io/sitemap
+Sitemap: https://sionianie.github.io/app/sitemap
+Sitemap: https://sionianie.github.io/assets/sitemap
+Sitemap: https://sionianie.github.io/css/sitemap
+Sitemap: https://sionianie.github.io/includes/sitemap
+Sitemap: https://sionianie.github.io/item/sitemap
+Sitemap: https://sionianie.github.io/src/sitemap
